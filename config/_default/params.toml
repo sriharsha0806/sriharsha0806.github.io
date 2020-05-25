@@ -107,6 +107,7 @@ address = {street = "Whitefield", city = "Bangalore", region = "KA", postcode = 
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/harsha0806"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:sriharsha0806"},
+  {icon = "linkedin", icon_pack = "fab", name = "Linkedin", link = "https://www.linkedin.com/in/annamaneni-sriharsha-13b77262/" }
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
