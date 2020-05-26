@@ -4,7 +4,7 @@ date = "2018-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Sriharsha Annamaneni", "Nikitha Vallurapalli", "Girish Varma", "C V Jawahar", "Manu Mathew", "Soyeb Nagori"]
+authors = ["**Sriharsha Annamaneni**", "Nikitha Vallurapalli", "Girish Varma", "C V Jawahar", "Manu Mathew", "Soyeb Nagori"]
 
 # Publication type.
 # Legend:
