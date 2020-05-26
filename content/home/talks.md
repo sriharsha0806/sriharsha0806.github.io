@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
-subtitle = ""
+title = "Talks"
+subtitle = "This is a list about the talks I have given this year at two events. One is Symposium on Research and other is CVIT Tech Talk. Symposium on research is an Annual Event conducted by CVIT, IIIT where students of CVIT will be selected to present their published research. I was given the opportunity to present my research Efficient Semantic Segmentation using Gradual Grouping. CVIT Tech Talk is a weekly meetup to discuss current research papers in Computer vision, Natural language processing, Reinforcement learning and Robotics."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
