@@ -55,18 +55,7 @@ date_format = "Jan 2006"
   [Thesis](https://drive.google.com/file/d/0B3XT_WQy5fRtTWkxdW1hNEgyOGM/view?usp=sharing)
   """
 
-  [[experience]]
-  title = "Head of Communication and Groundstation subsystem"
-  company = "Parikshit student satellite team"
-  company_url = ""
-  location = "Manipal"
-  date_start = "2012-02-12"
-  date_end = "2014-06-25"
-  description = """
-  * Programmed ADF7021-N and CC1101 RF transcievers using MSP 430 for communication between satellite and groundstation
-  * Designed RF PCB components used onboard Satelilte
-  * Built a groundstation for tracking the satellites
-  """
+
 
 
 +++
