@@ -43,4 +43,30 @@ date_format = "Jan 2006"
   worked on Autonomous Navigation for Indian Roads.
   """
 
+  [[experience]]
+  title = "Research Intern"
+  company = "Bhabha Atomic Research Centre"
+  company_url = "http://www.barc.gov.in/"
+  location = "Mumbai"
+  date_start = "2014-01-10"
+  date_end = "2014-06-15"
+  description = """
+  Worked on compressing Magnetic Flux leakage signals collected by Instrumented Pipeline Inspection Gauage while monitoring oil/gas pipelines. </br>
+  [Thesis](https://drive.google.com/file/d/0B3XT_WQy5fRtTWkxdW1hNEgyOGM/view?usp=sharing)
+  """
+
+  [[experience]]
+  title = "Head of Communication and Groundstation subsystem"
+  company = "Parikshit student satellite team"
+  company_url = ""
+  location = "Manipal"
+  date_start = "2012-02"
+  date_end = "2014-06"
+  description = """
+  * Programmed ADF7021-N and CC1101 RF transcievers using MSP 430 for communication between satellite and groundstation
+  * Designed RF PCB components used onboard Satelilte
+  * Built a groundstation for tracking the satellites
+  """
+
+
 +++
