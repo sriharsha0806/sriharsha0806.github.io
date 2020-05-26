@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   title = "Best Runner up Award"
   url = "https://drive.google.com/file/d/1NnO7Zd_IF4mXSIhZZVZVDwslxWU79XSQ/view"
   certificate_url = "https://drive.google.com/file/d/1WkRN9_rKnedQ-kfwG3YvtQ_4ydtvBd-H/view?usp=sharing"
-  date_start = ""
+  date_start = "2018-07-21"
   date_end = ""
   description = ""
 
