@@ -1,10 +1,10 @@
 +++
-title = "Efficient Semantic Segmentation using Gradual Grouping (Oral) (Best paper Runner up Award)"
-date = "2018-07-01"
+title = "Development of Antenna Deployment Circuit for Nano-Satellites"
+date = "2013-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Sriharsha Annamaneni", "Nikitha Vallurapalli", "Girish Varma", "C V Jawahar", "Manu Mathew", "Soyeb Nagori"]
+authors = ["Naimul Mefraz Khan", "**Nabila Abraham**", "Marcia Hon"]
 
 # Publication type.
 # Legend:
@@ -25,7 +25,7 @@ publication = "IEEE Access."
 
 #abstract = "We propose a generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation. Compared to the commonly used Dice loss, our loss function achieves a better trade off between precision and recall when training on small structures such as lesions. To evaluate our loss function, we improve the attention U-Net model by incorporating an image pyramid to preserve contextual features. We experiment on the BUS 2017 dataset and ISIC 2018 dataset where lesions occupy 4.84% and 21.4% of the images area and improve segmentation accuracy when compared to the standard U-Net by 25.7% and 3.6%, respectively."
 
-abstract = "Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset. We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets. We further propose a novel training procedure which starts out with a dense convolution but gradually evolves towards a grouped convolution. We show that our proposed training method and efficient architecture design can improve accuracies by over 8% with depthwise separable convolutions applied on the encoder of ERFNet and attaching a light weight decoder. This results in a model which has a 5X improvement in FLOPs while only suffering a 4% degradatioon in accuracy with respect to ERFNet."
+abstract = "Nano Satellites generally weighing between 1 and 15 kg, serving the purpose of space research are popularly standardized as CubeSats. The CubeSat standard has made it really feasible and easy for students from various universities to develop their own Nano-satellites with their very own payloads. Antennas are critical components in the onboard communication system of satellites, the Nano Satellites usually communicate in the Amateur Frequency Bands; these bands exist from 144 MHz to 146 MHz in VHF and from 434 MHz to 438 MHz in the UHF range. Designing antennas at these frequencies typically ends up being larger in size than the actual CubeSat itself. Thus generally the antennas for a Nano Satellite are made flexible enough to be folded in order to comply with the CubeSat size standards. Once the satellite is ejected into the orbit from the deployer module, an automated signal is used to trigger a circuit that initiates a series of processes to deploy the folded antennas back into their original shape. This paper deals about the design and development of a highly efficient, smart and reliable control circuit prototype called the Antenna Deployment Circuit. This developed prototype is tested and the results are summarized in the paper."
 
 # Featured image thumbnail (optional)
 #image_preview = "static/img/ftl.png"
@@ -39,14 +39,14 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://sriharshavenugopal.github.io/sriharshavenugopal.github.io/pdf/Paper1.pdf"
+url_pdf = "https://sriharshavenugopal.github.io/sriharshavenugopal.github.io/pdf/Paper2.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "https://drive.google.com/file/d/16WnXJbOaqgd6MPw6cvo923DYyhdeN6j_/view"
+url_slides = ""
 url_video = ""
-url_poster = "https://drive.google.com/file/d/1NnO7Zd_IF4mXSIhZZVZVDwslxWU79XSQ/view"
+url_poster = ""
 url_source = ""
 
 # Custom links (optional).
@@ -64,7 +64,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "1.png"
+image = "2.png"
 #caption = "My caption :smile:"
 
 +++
