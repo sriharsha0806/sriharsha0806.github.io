@@ -3,7 +3,7 @@ date = "2019-03-17T00:00:00"
 title = "Spectral Graph Thoery"
 abstract = "Introduction to Spectral Graph Theory"
 abstract_short = ""
-event = "CVIT Tech Talk
+event = "CVIT Tech Talk"
 event_url = "https://example.org"
 location = "London, United Kingdom"
 
