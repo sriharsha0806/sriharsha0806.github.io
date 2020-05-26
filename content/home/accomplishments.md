@@ -19,10 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "IEEE Embeded Vision Workshop, CVPR’18"
+  organization = "IEEE Embeded Vision Workshop, CVPR18"
   organization_url = "http://cvpr2018.thecvf.com/"
   title = "Best Runner up Award"
-  poster = "https://drive.google.com/file/d/1NnO7Zd_IF4mXSIhZZVZVDwslxWU79XSQ/view"
+  url = "https://drive.google.com/file/d/1NnO7Zd_IF4mXSIhZZVZVDwslxWU79XSQ/view"
   certificate_url = "https://drive.google.com/file/d/1WkRN9_rKnedQ-kfwG3YvtQ_4ydtvBd-H/view?usp=sharing"
   
 
