@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'sriharsha0806@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sriharsha0806@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/harsha0806
@@ -67,4 +67,4 @@ email: "sriharsha0806@gmail.com"
 #- Visitors
 ---
 
-Currently, I am a Research Engineer at SirenaLabs working on Facial Verification and Speech Recognition. I was a Research Fellow working under Prof C.V. Jawahar at CVIT Hyderabad. My research interests include Deep Learning, specifically Model Compression and Autonomous Navigation. I worked on Autonomous Navigation for Indian Roads.  
+Currently, I am a Research Engineer at SirenaLabs working on Facial Verification and Speech Recognition. I was a Research Fellow working under [Prof C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) at CVIT Hyderabad. My research interests include Deep Learning, specifically Model Compression and Autonomous Navigation. I worked on Autonomous Navigation for Indian Roads.  
