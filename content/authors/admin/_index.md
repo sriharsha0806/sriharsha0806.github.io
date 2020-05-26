@@ -30,7 +30,7 @@ education:
   - course: Msc in Electrical Engineering
     institution: Florida Institute of Technology
     year: 2016
-  - course: BSc in Electrical Engineering
+  - course: BE in Electronics and Communication Engineering
     institution: Manipal Institute of Technology
     year: 2014
 
