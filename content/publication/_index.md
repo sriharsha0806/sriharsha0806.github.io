@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "Efficient Semantic Segmentation using Gradual Grouping"
+  image: "1.jpg"
 ---
