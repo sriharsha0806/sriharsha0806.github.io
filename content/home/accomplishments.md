@@ -18,14 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
-  organization = "IEEE Embeded Vision Workshop, CVPR18"
-  organization_url = "http://cvpr2018.thecvf.com/"
-  title = "Best Runner up Award"
-  url = "https://drive.google.com/file/d/1NnO7Zd_IF4mXSIhZZVZVDwslxWU79XSQ/view"
-  certificate_url = "https://drive.google.com/file/d/1WkRN9_rKnedQ-kfwG3YvtQ_4ydtvBd-H/view?usp=sharing"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
   
-
-
-
 +++
