@@ -1,5 +1,5 @@
 +++
-title = "MEASURING THE INTRINSIC DIMENSION OF OBJECTIVE LANDSCAPES"
+title = "Measuring The Intrinsic Dimension of Objective Landscapes"
 date = 2018-08-24T14:00:00-15:00 # Schedule page publish date.
 draft = false
 
