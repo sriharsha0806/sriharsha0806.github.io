@@ -1,5 +1,5 @@
 +++
-date = "2019-03-17T140000"
+date = "2019-03-17"
 title = "Spectral Graph Theory"
 abstract = "Introduction to Spectral Graph Theory"
 abstract_short = ""

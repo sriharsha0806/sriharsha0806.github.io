@@ -1,6 +1,6 @@
 +++
 title = "MEASURING THE INTRINSIC DIMENSION OF OBJECTIVE LANDSCAPES"
-date = "2018-05-17T140000"  # Schedule page publish date.
+date = "2018-05-17"  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
