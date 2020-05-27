@@ -1,6 +1,6 @@
 +++
-title = "Learning to Reweight Examples for Robust Deep Learning"
-date = 2018-05-11T14:00:00  # Schedule page publish date.
+title = "Overview of Semantic Segmentation"
+date = 2018-04-26T14:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -9,11 +9,11 @@ draft = false
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mengye Ren", "Wenyuan Zeng", "Bin Yang", "Raquel Urtasun"]
+# authors = ["Gao Huang", "Zhuang Liu", "Laurens van der Maaten", "Kilian Q. Weinberger"]
 
 # Abstract and optional shortened version.
-abstract = "Deep neural networks have been shown to be very powerful modeling tools for many supervised learning tasks involving complex input patterns. However, they can also easily overfit to training set biases and label noises. In addition to various regularizers, example reweighting algorithms are popular solutions to these problems, but they require careful tuning of additional hyperparameters, such as example mining schedules and regularization hyperparameters. In contrast to past reweighting methods, which typically consist of functions of the cost value of each example, in this work we propose a novel meta-learning algorithm that learns to assign weights to training examples based on their gradient directions. To determine the example weights, our method performs a meta gradient descent step on the current mini-batch example weights (which are initialized from zero) to minimize the loss on a clean unbiased validation set. Our proposed method can be easily implemented on any type of deep network, does not require any additional hyperparameter tuning, and achieves impressive performance on class imbalance and corrupted label problems where only a small amount of clean validation data is available"
-abstract_short = " A novel meta-learniing algorithm that learns to assign weights to training examples based on their gradient directions."
+abstract = "Overview of Semantic Segmentation Architectures."
+abstract_short = " Overview of Semantic Segmentation Architectures."
 
 # Name of event and optional event URL.
 event = "CVIT Tech Talk"
@@ -35,7 +35,7 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Deep Learning", "Supervised Learning", "Overfitting"]
+tags = ["Deep Learning", "Convolutional Neural Networks", "Semantic segmentation"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -47,7 +47,7 @@ tags = ["Deep Learning", "Supervised Learning", "Overfitting"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://docs.google.com/presentation/d/1IDyt-oGy03U61TZyGHAXkL7F07I7SRMvzHejDdROVUY/edit?usp=sharing"
+url_slides = "https://docs.google.com/presentation/d/1x-zstvoYfZw7UsSHy69ZSGx8yX0zURcnPWKEx5yKO8I/edit?usp=sharing"
 url_video = ""
 url_code = ""
 
