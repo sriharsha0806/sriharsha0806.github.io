@@ -21,20 +21,20 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+  # [[content.filter_button]]
+  #  name = "All"
+  #  tag = "*"
   
   [[content.filter_button]]
     name = "Deep Learning"
     tag = "Deep Learning"
   
   [[content.filter_button]]
-    name = "Healthcare"
+    name = "Health care"
     tag = "Health care"
 
   [[content.filter_button]]
-    name = "Generative"
+    name = "Generative Models"
     tag = "Generative Networks"
   
   [[content.filter_button]]
@@ -42,7 +42,7 @@ subtitle = ""
     tag = "Object Detection"
 
   [[content.filter_button]]
-    name = "AutonomousNavigation"
+    name = "Autonomous Navigation"
     tag = "Autonomous Navigation"
 
   # [[content.filter_button]]
