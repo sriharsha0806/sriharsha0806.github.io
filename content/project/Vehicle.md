@@ -5,7 +5,7 @@ draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Computer Vision", "Autonomous Navigation", "Deep Learning"]
+tags = ["Computer Vision", "Autonomous Navigation", "Deep Learning", "Object Detection"]
 categories = []
 external_link = "https://github.com/sriharsha0806/CarND-Vehicle-Detection"
 # Featured image

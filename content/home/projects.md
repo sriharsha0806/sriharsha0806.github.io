@@ -29,6 +29,22 @@ subtitle = ""
     name = "Deep Learning"
     tag = "Deep Learning"
   
+  [[content.filter_button]]
+    name = "Healthcare"
+    tag = "Health care"
+
+  [[content.filter_button]]
+    name = "Generative"
+    tag = "Generative Networks"
+  
+  [[content.filter_button]]
+    name = "ObjectDetection"
+    tag = "Object Detection"
+
+  [[content.filter_button]]
+    name = "AutonomousNavigation"
+    tag = "Autonomous Navigation"
+
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"
