@@ -10,7 +10,7 @@ title = "Courses"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 75
 +++
 
 I have attended following course at IIIT Hyderabad.
