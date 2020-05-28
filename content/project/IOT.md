@@ -1,6 +1,6 @@
 +++
 title = "People Counter APP"
-date = 2020-05-29T23:43:31+05:30
+date = ""
 draft = false
 
 # Tags and categories
