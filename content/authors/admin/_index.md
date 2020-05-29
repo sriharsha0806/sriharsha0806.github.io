@@ -18,12 +18,15 @@ organizations:
   url: "https://sirenalabs.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation.
+bio: My Primary research area is Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation.
+I am also interested in HealthCare and Internet of Things. 
 
 interests:
 - Artificial Intelligence
 - Computer Vision
 - Speech Recognition
+- Internet of Things
+- HealthCare
 
 education:
   courses:
