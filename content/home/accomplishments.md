@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   title = "MICROSOFT AZURE MACHINE LEARNING SCHOLARSHIP"
   url = "https://www.udacity.com/scholarships/machine-learning-scholarship-microsoft-azure"
   certificate_url = "https://drive.google.com/file/d/19Zq9IVMTjZ8hChy7AfFosnoDKxBmO4-w/view?usp=sharing"
-  date_start = ""
+  date_start = "2020-07-08"
   date_end = ""
   description = "One of the 100 candidates to get selected for the first cohort"
 +++
