@@ -86,7 +86,7 @@ phone = "798 178 7689"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Whitefield", city = "Bangalore", region = "KA", postcode = "560066", country = "India", country_code = "IN"}
+address = {street = "Jubilee Hills", city = "Hyderabad", region = "TS", postcode = "500033", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

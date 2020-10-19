@@ -69,4 +69,4 @@ email: "sriharsha0806@gmail.com"
 #- Visitors
 ---
 
-Currently, I am a Research Engineer at SirenaLabs working on Facial Verification and Speech Recognition. I was a Research Fellow working under [Prof C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) at CVIT Hyderabad. My Primary research area is Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation. I am also interested in HealthCare and Internet of Things.
+I am a Computer Vision Engineer at [Aimlytics](https://aimlytics.ai/). Previously, I am a Research Engineer at SirenaLabs working on Facial Verification and Speech Recognition. I was a Research Fellow working under [Prof C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) at CVIT Hyderabad. My Primary research area is Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation. I am also interested in HealthCare and Internet of Things.
