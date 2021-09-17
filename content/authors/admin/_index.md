@@ -67,4 +67,4 @@ email: "sriharsha0806@gmail.com"
 #- Visitors
 ---
 
-I am a Senior Engineer at [Bosch](https://www.bosch-india-software.com/en/). Previously, I worked as a Computer Vision Engineer on Multi modal learning at [Aimlytics](https://aimlytics.ai/) and Even before that I worked as a Research Engineer at [SirenaLabs](https://sirenalabs.com/) working on Facial Verification and Speech Recognition. I was a Research Fellow working under [Prof C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) at CVIT Hyderabad. My Primary research area is Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation. 
+I am a Senior Engineer at [Bosch](https://www.bosch-india-software.com/en/). I was a Research Fellow working under [Prof C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) at CVIT Hyderabad. My Primary research area is Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation. 

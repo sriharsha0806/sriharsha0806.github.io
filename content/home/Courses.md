@@ -18,7 +18,7 @@ I have attended following course at IIIT Hyderabad.
 - Efficient CNNs [Course Website](https://geevi.github.io/teaching/efficient-cnns/)
 
 Mooc Courses completed
-
+- [SQL Nanodegree](https://www.udacity.com/course/learn-sql--nd072)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) 
 - [Digital Signal Processing](https://www.coursera.org/learn/dsp)
 - [The Brain and Space](https://www.coursera.org/learn/human-brain)
