@@ -17,9 +17,27 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Senior Engineer"
+  company = "Bosch"
+  company_url = "https://www.bosch-india-software.com/en/"
+  location = "Bangalore"
+  date_start = "2021-05-10"
+  date_end = ""
+  description = """
+  Built a smarttest execution system, where given a bug the system has to be retrieved related test cases to the Bug using NLP and Knowledge Models"
+  """
 
-
-
+[[experience]]
+  title = "Computer Vision Engineer"
+  company = "Aimlytics"
+  company_url = "https://aimlytics.ai"
+  location = "Hyderabad"
+  date_start = "2020-10-10"
+  date_end = "2021-04-10"
+  description = """
+  Built a Proof of Concept for automatic speech dubbing that involves AutomatedSpeech Recognition, Speaker Diarization and Text to Speech"
+  """
 
 
 [[experience]]
@@ -28,7 +46,7 @@ date_format = "Jan 2006"
   company_url = "https://sirenalabs.com/"
   location = "Bangalore"
   date_start = "2019-10-21"
-  date_end = ""
+  date_end = "2020-07-01"
   description = """
   Responsibilities include:
   
