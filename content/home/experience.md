@@ -17,15 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Senior Engineer"
-  company = "Bosch"
-  company_url = "https://www.bosch-india-software.com/en/"
-  location = "Bangalore"
-  date_start = "2019-10-21"
-  date_end = ""
-  description = "Built a smarttest execution system, where given a bug the system has to retrieverelated test cases to the Bug using NLP and Knowledge Models"
-  """
+
 
 
 
