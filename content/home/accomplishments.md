@@ -38,25 +38,4 @@ date_format = "Jan 2006"
   date_start = "2020-07-08"
   date_end = ""
   description = "One of the 100 candidates to get selected for the first cohort"
-
-[[item]]
-  organization = "Udacity"
-  organization_url = "https://www.udacity.com/"
-  title = "SQL Nanodegree"
-  url = "https://www.udacity.com/course/learn-sql--nd072"
-  certificate_url = "https://confirm.udacity.com/DGMNCWDN"
-  date_start = ""
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Udacity"
-  organization_url = "https://www.udacity.com/"
-  title = "SQL Nanodegree"
-  url = "https://www.udacity.com/course/experimental-design-and-recommendations--cd0019"
-  certificate_url = "https://confirm.udacity.com/3DAK4VCZ"
-  date_start = ""
-  date_end = ""
-  description = ""
 +++
-"""
