@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_start = "2020-07-08"
   date_end = ""
   description = "One of the 100 candidates to get selected for the first cohort"
-+++
+
 
 
 [[item]]
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   date_start = ""
   date_end = ""
   description = ""
-+++
+
 
 [[item]]
   organization = "Udacity"
