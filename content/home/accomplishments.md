@@ -39,8 +39,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = "One of the 100 candidates to get selected for the first cohort"
 
-
-
 [[item]]
   organization = "Udacity"
   organization_url = "https://www.udacity.com/"
@@ -50,7 +48,6 @@ date_format = "Jan 2006"
   date_start = ""
   date_end = ""
   description = ""
-
 
 [[item]]
   organization = "Udacity"
@@ -62,3 +59,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 +++
+"""
