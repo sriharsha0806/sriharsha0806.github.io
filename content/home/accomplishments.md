@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Udacity"
   organization_url = "https://www.udacity.com/"
-  title = "SQL Nanodegree"
+  title = "Experimental design and recommendations"
   url = "https://www.udacity.com/course/experimental-design-and-recommendations--cd0019"
   certificate_url = "https://confirm.udacity.com/3DAK4VCZ"
   date_start = ""
