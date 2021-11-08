@@ -18,6 +18,25 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com/"
+  title = "SQL Nanodegree"
+  url = "https://www.udacity.com/course/learn-sql--nd072"
+  certificate_url = "https://confirm.udacity.com/DGMNCWDN"
+  date_start = ""
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com/"
+  title = "SQL Nanodegree"
+  url = "https://www.udacity.com/course/experimental-design-and-recommendations--cd0019"
+  certificate_url = "https://confirm.udacity.com/3DAK4VCZ"
+  date_start = ""
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "IEEE Embedded Vision Workshop"
