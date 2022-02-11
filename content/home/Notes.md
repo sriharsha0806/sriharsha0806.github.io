@@ -12,7 +12,7 @@ For the ID assignment, i.e., data association task the new target states are use
 Note: SORT fails to cope with occlusion 
 
 ### DeepSORT: 
-In addition to that, DeepSORT adds extra dimensions to its motion tracking mode. The state of each target is denoted on the eight-dimensional state space (u, v, $/gamma$, h, x', y', $/gamma$', h') that contains the bounding box center position (u,v), aspect ratio $/gamma$, height h and their repective velocities in image coordinates. These additions enable DeepSORT to effectively handle challenging scenarios and reduce the number of identity switches by 45%. DeepSORT achieves 75.4 MOTA and 77.3 IDF1 on the MOT17 dataset with 239 ID switches but a lower FPS of 13. 
+In addition to that, DeepSORT adds extra dimensions to its motion tracking mode. The state of each target is denoted on the eight-dimensional state space (u, v, $/gamma$, h, x', y', $/gamma$', h') that contains the bounding box center position (u,v), aspect ratio $\gamma$, height h and their repective velocities in image coordinates. These additions enable DeepSORT to effectively handle challenging scenarios and reduce the number of identity switches by 45%. DeepSORT achieves 75.4 MOTA and 77.3 IDF1 on the MOT17 dataset with 239 ID switches but a lower FPS of 13. 
 
 ### FairMOT
 Approaching object tracking from a multi-task learning perspective of object detection and re-ID in a single network is appealing since it allows shared optimization of the two tasks. 
