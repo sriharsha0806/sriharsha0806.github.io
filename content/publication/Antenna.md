@@ -39,7 +39,7 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://sriharshavenugopal.github.io/sriharshavenugopal.github.io/pdf/Paper2.pdf"
+url_pdf = "https://ieeexplore.ieee.org/document/6662309"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
