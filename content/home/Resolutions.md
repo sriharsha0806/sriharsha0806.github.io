@@ -9,5 +9,3 @@ My long term resolutions for the year 2023 are
 * Become a better coder, Complete atleast 40 Hard leetcode problems 
 * Learn all the styles of swimming
 * Become a better system design engineer
-
-s
