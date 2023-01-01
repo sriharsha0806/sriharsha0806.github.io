@@ -9,8 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Recollecting 2022"
-  image: "patagonia.png"
-
-This is my first post
+  caption: ""
+  image: ""
 ---
